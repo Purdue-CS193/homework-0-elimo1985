@@ -4,6 +4,16 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Emilio's First CS193 Homework
+
+## Some of my favorite things about CS193 are...
+- The more chill and laid-back feeling of it compared to other courses.
+- The more humoristic approach to teaching :)
+- How it doesn't stress me out as much as other courses so far!
+- I know some of the people in my class!
+- This helpful markdown syntax guide below that I will leave here.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -18,12 +28,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-- Bullet test
 
 1. Numbered
 2. List
 
-3. Number test
 
 **Bold** and _Italic_ and `Code` text
 
