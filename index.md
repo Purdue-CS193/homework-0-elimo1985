@@ -18,8 +18,12 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+- Bullet test
+
 1. Numbered
 2. List
+
+3. Number test
 
 **Bold** and _Italic_ and `Code` text
 
